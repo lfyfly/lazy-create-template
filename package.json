@@ -1,0 +1,14 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createFromTpl.js",
+  "scripts": {
+    "lazy": "node tpls/scripts/createFromTpl.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2"
+  }
+}
